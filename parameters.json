@@ -1,5 +1,4 @@
 {
-  "mode": "All",
   "parameters": {
       "allowedvms": {
           "type": "array",
