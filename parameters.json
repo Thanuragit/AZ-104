@@ -1,0 +1,13 @@
+{
+  "mode": "All",
+  "parameters": {
+      "allowedvms": {
+          "type": "array",
+          "metadata": {
+              "description": "pdesq",
+              "displayName": "pdisq"
+          }
+        },
+        "defaultValue": [ "Eastus" ]
+    }
+}
