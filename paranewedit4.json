@@ -1,0 +1,10 @@
+{
+    "allowedlocations": {
+        "type": "array",
+        "metadata": {
+            "description": "pdaesq",
+            "displayName": "pdaisq"
+        }
+    }
+}
+
