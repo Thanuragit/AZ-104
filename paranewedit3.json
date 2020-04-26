@@ -1,0 +1,12 @@
+  
+{
+    "parameter": {
+        "allowedlocations": {
+            "type": "Array",
+            "metadata": {
+                "description": "pdesq",
+                "displayName": "pdisq"
+            }
+        }
+    }
+}
